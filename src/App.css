@@ -1,0 +1,22 @@
+#root {
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(190, 117, 117);
+}
+
+.App {
+  background-color: red;
+  height: 450px;
+  width: 450px;
+}
+
+.App2 {
+  background-color: brown;
+  height: 200px;
+  width: 200px;
+  box-sizing: border-box;
+  margin-top: 50px;
+}
